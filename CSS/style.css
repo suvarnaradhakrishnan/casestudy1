@@ -1,0 +1,30 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.head-pos{
+    padding-left: 49%;
+    font-weight:bold;
+   }
+
+.form-margin{
+    margin-top: 140px;
+}
+
+.main-head{
+    padding-left: 45%;
+}
+.btn-pos{
+    text-align: center;
+}
+#errormsg{
+    color: red;
+}
+#demo{
+   margin: 30px;
+   }
+.todo{
+    margin: 50px;
+}
+
